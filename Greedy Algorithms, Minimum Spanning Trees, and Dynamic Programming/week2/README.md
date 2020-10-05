@@ -1,6 +1,6 @@
 # Max-spacing K-clustering
 ## First one
-In this programming problem and the next you'll code up the clustering algorithm from lecture for computing a max-spacing k-clustering.
+In this programming problem and the next you'll code up the `clustering algorithm` from lecture for computing a `max-spacing k-clustering`.
 
 [This file](https://github.com/Chang-Chia-Chi/Cousera-Standford-Algorithm-Specialization/blob/main/Greedy%20Algorithms%2C%20Minimum%20Spanning%20Trees%2C%20and%20Dynamic%20Programming/week2/clustering1.txt) describes a distance function (equivalently, a complete graph with edge costs). It has the following format:
 ```
