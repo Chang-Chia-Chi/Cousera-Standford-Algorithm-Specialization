@@ -1,12 +1,9 @@
 # Hoffman coding
 
-In this programming problem and the next you'll code up the greedy algorithm from the lectures on Huffman coding.
+In this programming problem and the next you'll code up the `greedy algorithm` from the lectures on `Huffman coding`.
 
-Download the text file below.
-
-huffman.txt
-This file describes an instance of the problem. It has the following format:
-
+[This file](https://github.com/Chang-Chia-Chi/Cousera-Standford-Algorithm-Specialization/blob/main/Greedy%20Algorithms%2C%20Minimum%20Spanning%20Trees%2C%20and%20Dynamic%20Programming/week3/huffman.txt) describes an instance of the problem. It has the following format:
+```
 [number_of_symbols]
 
 [weight of symbol #1]
@@ -14,6 +11,7 @@ This file describes an instance of the problem. It has the following format:
 [weight of symbol #2]
 
 ...
+```
 
 For example, the third line of the file is "6852892," indicating that the weight of the second symbol of the alphabet is 6852892. (We're using weights instead of frequencies, like in the "A More Complex Example" video.)
 
