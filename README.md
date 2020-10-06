@@ -47,4 +47,4 @@ Learners will practice and master the fundamentals of algorithms through several
 - [Binary Search Tree](https://github.com/Chang-Chia-Chi/Cousera-Standford-Algorithm-Specialization/tree/main/Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Binary-Search-Tree)     
 
 
-*Course Link: https://www.coursera.org/specializations/algorithms?*
+*Course Link and Reference: https://www.coursera.org/specializations/algorithms*
